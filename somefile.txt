@@ -1,7 +1,5 @@
 hello01
 hello02
-hello03
-hello04
-_>hello05
 
-졸려억
+졸리고 배고프고 돈없고...거지네
+hello world
